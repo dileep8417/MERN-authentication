@@ -1,0 +1,5 @@
+authentication-client/node_modules
+authentication-client/.env
+
+authentication-server/node_modules
+authentication-server/.env

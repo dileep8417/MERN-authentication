@@ -1,0 +1,32 @@
+.primary-btn {
+  outline: none;
+  cursor: pointer;
+  padding: 8px 11px;
+  background: #15C7EF;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  color: #FFFFFF;
+  border: none;
+}
+
+nav {
+  padding: 24px;
+  margin: 0 0 48px;
+}
+
+.page-content {
+  padding: 0 16px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-options {
+  display: flex;
+  gap: 24px;
+  font-size: 15px;
+  cursor: pointer;
+}
